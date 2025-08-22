@@ -112,7 +112,7 @@ Absolutely—your `Aetna.com/access <#>`_ credentials work on the mobile app.
 Use **Forgot Password** to reset, or call Member Services using the number on your ID card.
 
 
-My Short Experience
+My Experience
 ===================
 
 I found registration at `Aetna.com/access <#>`_ quick and straightforward—setup took only a few minutes, and logging in later to review coverage and claims was seamless.
