@@ -9,8 +9,7 @@ Visit `Aetna.com/access <#>`_ to set up or sign in to your secure Aetna member a
 
 .. image:: Button.png
    :alt: Aetna.com/access
-   :target: https://Aetna.com/access
-
+   :target:  https://pre.im/?5AjQgoeFAldneey1kUAVfQaX8GdC553J00boLKYMjlQtuQKskyVxqHWbpTVNs5pBgNBNLKT6R4vsNuz5Q
 .. raw:: html
 
     </div>
